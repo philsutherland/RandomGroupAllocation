@@ -1,2 +1,2 @@
 # RandomGroupAllocation
-The simple program allows the user to randomly assign one group to review another groups work.
+This simple program allows for student groups to be randomly partnered with each other for peer marking pureposes. 
